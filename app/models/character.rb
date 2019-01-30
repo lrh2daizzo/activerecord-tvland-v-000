@@ -6,4 +6,3 @@ class Character < ActiveRecord::Base
     self.catchphrase
   end
 end
-
